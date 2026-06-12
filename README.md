@@ -2,7 +2,6 @@
 projeto agrinho
 Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente”. 
 link do projeto: https://claragrecosouza-byte.github.io/agrinho-2026/
-
 Tema: A Força da Sustentabilidade
 
 
